@@ -15,3 +15,6 @@ o identify which product(s) are selling the most in the market,To analyze sales 
 
 # Summary of Report
 The analysis highlights customer buying trends based on demographics and product categories. The study shows which products dominate the market, how gender influences purchase behavior, and which age groups drive revenue. These insights help retailers improve marketing strategies, optimize stock levels, and align their offerings with customer needs.
+
+# Tech Tools Used
+SQL, Excel,Miro,Google Looker Studio And Power Point.
